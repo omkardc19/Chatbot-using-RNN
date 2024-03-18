@@ -37,3 +37,6 @@ mental step towards enhancing human-computer interactions.
  This project represents an exciting exploration into the intersection of natural language
  processing and machine learning, with the ultimate goal of advancing the capabilities of
  conversational AI systems.
+## Models performance:
+
+![models_peformance](https://github.com/omkardc19/Chatbot-using-RNN/assets/107295459/9a625bf6-3eff-4895-99d2-168a65621696)
